@@ -14,8 +14,10 @@ Here are my notes
   * [Exploratory Data Analysis](https://premachu.github.io/DataScienceSpCourseNotes/4_EXDATA/Exploratory_data_analysis_course_notes.html)
   * [Reproducible Research](https://premachu.github.io/DataScienceSpCourseNotes/5_REPDATA/Notes_Reproducible_Research.html)
   * [Statistical Inference](https://premachu.github.io/DataScienceSpCourseNotes/6_STATINFERENCE/06_Stat_Notes.html)
+
 * **Python** ![Arbok](http://oi48.tinypic.com/n47aso.jpg?raw=true)
   * [Python Notes] (https://premachu.github.io/python/coding_with_python.html)
+
 * **Chemistry** 
   * [Chemistry Notes] (https://premachu.github.io/chemistry_notes/Chemistry.html)
 * **Maths** 

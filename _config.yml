@@ -1,19 +1,25 @@
+# Permalinks
+permalink:         pretty
+
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-url:          https://premachu.github.io
-baseurl:      /cayman/
-paginate:     1
+title:            Earthsea
+tagline:          'A fansite'
+description:      'A fansite for the Earthsea saga, written by <a href="http://www.ursulakleguin.com/" target="_blank">Ursula k. Leguin</a>.'
+url:                 https://premachu.github.io
+paginate:            2 # number of posts per page
+baseurl:             /hyde/
 
-# About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:           'Premachu'
+  url:            https://premachu.github.io
 
-# Gems
-gems:
-  - jekyll-paginate
 
-#Others
-markdown: kramdown
-highlighter: rouge
+# Disqus comments:
+disqus:           true
+shortname:        premachu.disqus.com
+
+# Custom vars
+version:          3.0
+
+github:
+  repo:           https://github.com/Premachu/hyde

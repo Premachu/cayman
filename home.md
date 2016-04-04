@@ -8,6 +8,9 @@ title: notes
 
 Here are my notes 
 
-* **Notes**
-  * Test
+* **R Data Science**
+  * [Getting and Cleaning data](https://premachu.github.io/DataScienceSpCourseNotes/2_RPROG/R_Programming_Course_Notes.html)
+  * [Getting and Cleaning data](https://premachu.github.io/DataScienceSpCourseNotes/3_GETDATA/data_clean.html)
+
+
 

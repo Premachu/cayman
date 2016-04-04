@@ -15,3 +15,6 @@ gems:
 
 #Others
 markdown: redcarpet
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml','Archive2':'/archive.html'}

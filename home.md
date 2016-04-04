@@ -7,7 +7,7 @@ title: notes
 (For some reason images only work if you add `raw=true` on the end)
 
 * **Python** 
-  * [Python Notes] (https://premachu.github.io/python/coding_with_python.html)
+  * [Python Notes](https://premachu.github.io/python/coding_with_python.html)
 
 * **Chemistry** 
   * [Chemistry Notes] (https://premachu.github.io/chemistry_notes/Chemistry.html)
